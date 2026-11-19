@@ -1,0 +1,5 @@
+Buergerbuero Bochum Querenburg
+9.0
+17.0
+Querenburger Hoehe 256
+Hauptwohnsitz_Nebenwohnsitz
